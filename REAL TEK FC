@@ -1,1 +1,197 @@
-https://yourusername.github.io/real-tek-fc/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Real Tek FC | MLS NEXT</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial,sans-serif;
+}
+
+body{
+background:white;
+color:#222;
+}
+
+header{
+background:linear-gradient(to right,#69b5ff,#ffffff);
+padding:30px;
+text-align:center;
+}
+
+header img{
+width:180px;
+}
+
+header h1{
+font-size:55px;
+color:#4fa3ff;
+margin-top:15px;
+}
+
+header p{
+font-size:20px;
+margin-top:10px;
+}
+
+nav{
+background:#4fa3ff;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:20px;
+font-weight:bold;
+}
+
+.hero{
+padding:80px 20px;
+text-align:center;
+}
+
+.hero h2{
+font-size:50px;
+color:#4fa3ff;
+}
+
+.hero p{
+font-size:20px;
+margin-top:20px;
+max-width:800px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.join{
+background:#f5f5f5;
+padding:80px 20px;
+text-align:center;
+}
+
+.join h2{
+font-size:45px;
+color:#4fa3ff;
+}
+
+.join ul{
+list-style:none;
+margin-top:30px;
+font-size:22px;
+line-height:50px;
+}
+
+.league{
+padding:80px 20px;
+text-align:center;
+}
+
+.league h2{
+font-size:45px;
+color:#4fa3ff;
+}
+
+.league p{
+font-size:22px;
+margin-top:20px;
+}
+
+footer{
+background:#111;
+color:white;
+padding:80px 20px;
+text-align:center;
+}
+
+.bottom-images{
+margin-top:40px;
+display:flex;
+justify-content:center;
+gap:40px;
+flex-wrap:wrap;
+}
+
+.bottom-images img{
+width:400px;
+max-width:90%;
+border-radius:15px;
+box-shadow:0 0 15px gray;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<img src="realtekbadge.png">
+<h1>REAL TEK FC</h1>
+<p>Official Youth Soccer Program | MLS NEXT</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Teams</a>
+<a href="#">Tryouts</a>
+<a href="#">Contact</a>
+</nav>
+
+<section class="hero">
+<h2>Welcome to Real Tek FC</h2>
+
+<p>
+Real Tek FC is a competitive soccer club for players under the age of 16. We help young athletes develop their skills, character, and love for the game while competing in MLS NEXT.
+</p>
+</section>
+
+<section class="join">
+<h2>Who Can Join?</h2>
+
+<ul>
+<li>⚽ U10 Players</li>
+<li>⚽ U12 Players</li>
+<li>⚽ U14 Players</li>
+<li>⚽ U16 Players</li>
+<li>⚽ Boys and Girls Teams</li>
+</ul>
+</section>
+
+<section class="league">
+<h2>MLS NEXT Competition</h2>
+
+<p>
+Real Tek FC competes in MLS NEXT, providing elite-level development and opportunities for young players to grow and reach their highest potential.
+</p>
+</section>
+
+<footer>
+
+<h2>Real Tek FC</h2>
+
+<p>
+Building Future Champions Since 2024
+</p>
+
+<h3 style="margin-top:40px;">
+Swipe all the way down to see our club and MLS NEXT partnership images.
+</h3>
+
+<div class="bottom-images">
+
+<img src="RealTekBadgePhoto1.png">
+
+<img src="RealTekMLSNextPhoto2.png">
+
+</div>
+
+</footer>
+
+</body>
+</html>
